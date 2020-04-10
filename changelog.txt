@@ -6,3 +6,8 @@ Date: 2020.04.09
     - Supports only the Nauvis surface/world
     - Marks trees whose current stage is equal to their max stage -- i.e., dead
 ---------------------------------------------------------------------------------------------------
+Version: 0.1.1
+Date: 2020.04.09
+  Optiminsations:
+    - Attempt to limit the number of trees we pull at a time to lighten our load
+---------------------------------------------------------------------------------------------------
