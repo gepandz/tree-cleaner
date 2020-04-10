@@ -1,0 +1,8 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.1.0
+Date: 2020.04.09
+  Major Features:
+    - Initial version
+    - Supports only the Nauvis surface/world
+    - Marks trees whose current stage is equal to their max stage -- i.e., dead
+---------------------------------------------------------------------------------------------------
