@@ -1,13 +1,20 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.2.0
+Date: 2023.03.10
+  New feature:
+    - Add a flag to allow the mod to mark cliffs for deconstruction, as well
+  Internals:
+    - Reformatted the changelog.txt file
+    - Updated Factorio base version from 0.18 to 1.1, since it's time...
+---------------------------------------------------------------------------------------------------
+Version: 0.1.1
+Date: 2020.04.09
+  Optimizations:
+    - Attempt to limit the number of trees we pull at a time to lighten our load
+---------------------------------------------------------------------------------------------------
 Version: 0.1.0
 Date: 2020.04.09
   Major Features:
     - Initial version
     - Supports only the Nauvis surface/world
     - Marks trees whose current stage is equal to their max stage -- i.e., dead
----------------------------------------------------------------------------------------------------
-Version: 0.1.1
-Date: 2020.04.09
-  Optiminsations:
-    - Attempt to limit the number of trees we pull at a time to lighten our load
----------------------------------------------------------------------------------------------------

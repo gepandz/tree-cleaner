@@ -1,10 +1,10 @@
 {
     "name": "TreeCleaner",
-    "version": "0.1.1",
+    "version": "0.2.0",
     "title": "Tree Cleaner",
     "author": "GPS",
     "homepage": "",
-    "factorio_version": "0.18",
-    "dependencies": ["base >= 0.18"],
-    "description": "This mod marks dead trees for deconstruction."
+    "factorio_version": "1.1",
+    "dependencies": ["base >= 1.1"],
+    "description": "This mod marks dead trees for deconstruction. It can also flag cliffs, if that option is set."
 }

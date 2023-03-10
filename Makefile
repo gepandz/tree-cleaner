@@ -13,4 +13,4 @@ clean:
 	rm -rf $(MOD_ZIP) $(DIRECTORY)
 
 deploy: $(MOD_ZIP)
-	cp $(MOD_ZIP) ../../../AppData/Roaming/Factorio/mods
+	cp $(MOD_ZIP) ~/.factorio/mods
